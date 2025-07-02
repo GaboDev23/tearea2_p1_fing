@@ -1,0 +1,23 @@
+1
+diccionarios/espaniol.txt
+6
+5
+licera
+E1
+H
+5
+ralice
+C5
+V
+5
+lirace
+E1
+H
+0
+0
+
+
+
+
+Error:
+no existe en el dicccionario

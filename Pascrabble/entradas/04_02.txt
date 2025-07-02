@@ -1,0 +1,15 @@
+2
+4
+diccionarios/arch3.txt
+casa
+4
+diccionarios/arch3.txt
+arbol
+4
+diccionarios/arch3.txt
+robots
+4
+diccionarios/arch3.txt
+zep
+0
+0

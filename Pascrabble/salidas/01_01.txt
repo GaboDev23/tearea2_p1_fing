@@ -1,0 +1,69 @@
+
+----- MENÚ TAREA2 -----
+1. Pascrabble 
+2. Probar subprogramas individualmente 
+0. Salir
+------------------------
+Seleccione una opción: 
+----- MENÚ PROBAR SUBPROGRAMAS -----
+1. Calcular histograma palabra 
+2. Comparar palabras 
+3. Calcular histograma texto 
+4. Es palabra válida 
+5. Remover letra del atril 
+6. Entra en tablero 
+7. Siguiente posición 
+8. Puede armar palabra 
+9. Armar palabra 
+10. Registrar jugada 
+0. Salir 
+------------------------
+Seleccione una opción: 
+Ingrese la palabra a calcular el histograma:
+a:|| (2)
+b:
+c:| (1)
+d:
+e:
+f:
+g:| (1)
+h:
+i:| (1)
+j:
+k:
+l:
+m:| (1)
+n:| (1)
+o:|| (2)
+p:| (1)
+q:
+r:|| (2)
+s:
+t:
+u:
+v:
+w:
+x:
+y:
+z:
+----- MENÚ PROBAR SUBPROGRAMAS -----
+1. Calcular histograma palabra 
+2. Comparar palabras 
+3. Calcular histograma texto 
+4. Es palabra válida 
+5. Remover letra del atril 
+6. Entra en tablero 
+7. Siguiente posición 
+8. Puede armar palabra 
+9. Armar palabra 
+10. Registrar jugada 
+0. Salir 
+------------------------
+Seleccione una opción: 
+
+----- MENÚ TAREA2 -----
+1. Pascrabble 
+2. Probar subprogramas individualmente 
+0. Salir
+------------------------
+Seleccione una opción: 

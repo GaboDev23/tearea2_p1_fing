@@ -1,0 +1,90 @@
+
+----- MENÚ TAREA2 -----
+1. Pascrabble 
+2. Probar subprogramas individualmente 
+0. Salir
+------------------------
+Seleccione una opción: 
+----- MENÚ PROBAR SUBPROGRAMAS -----
+1. Calcular histograma palabra 
+2. Comparar palabras 
+3. Calcular histograma texto 
+4. Es palabra válida 
+5. Remover letra del atril 
+6. Entra en tablero 
+7. Siguiente posición 
+8. Puede armar palabra 
+9. Armar palabra 
+10. Registrar jugada 
+0. Salir 
+------------------------
+Seleccione una opción: 
+Ingrese la cantidad de letras en el atril:
+Ingrese las letras del atril (sin espacios):
+Ingrese una letra a remover del atril:
+Atril:
++---+ +---+ +---+ +---+ +---+ +---+ 
+| A | | G | | C | | D | | E | | F | 
+| 0 | | 0 | | 0 | | 0 | | 0 | | 0 | 
++---+ +---+ +---+ +---+ +---+ +---+ 
+----- MENÚ PROBAR SUBPROGRAMAS -----
+1. Calcular histograma palabra 
+2. Comparar palabras 
+3. Calcular histograma texto 
+4. Es palabra válida 
+5. Remover letra del atril 
+6. Entra en tablero 
+7. Siguiente posición 
+8. Puede armar palabra 
+9. Armar palabra 
+10. Registrar jugada 
+0. Salir 
+------------------------
+Seleccione una opción: 
+Ingrese la cantidad de letras en el atril:
+Ingrese las letras del atril (sin espacios):
+Ingrese una letra a remover del atril:
+Atril:
++---+ +---+ +---+ +---+ +---+ +---+ 
+| A | | B | | C | | D | | E | | F | 
+| 0 | | 0 | | 0 | | 0 | | 0 | | 0 | 
++---+ +---+ +---+ +---+ +---+ +---+ 
+----- MENÚ PROBAR SUBPROGRAMAS -----
+1. Calcular histograma palabra 
+2. Comparar palabras 
+3. Calcular histograma texto 
+4. Es palabra válida 
+5. Remover letra del atril 
+6. Entra en tablero 
+7. Siguiente posición 
+8. Puede armar palabra 
+9. Armar palabra 
+10. Registrar jugada 
+0. Salir 
+------------------------
+Seleccione una opción: 
+Ingrese la cantidad de letras en el atril:
+Ingrese las letras del atril (sin espacios):
+Ingrese una letra a remover del atril:
+El atril está vacío.
+----- MENÚ PROBAR SUBPROGRAMAS -----
+1. Calcular histograma palabra 
+2. Comparar palabras 
+3. Calcular histograma texto 
+4. Es palabra válida 
+5. Remover letra del atril 
+6. Entra en tablero 
+7. Siguiente posición 
+8. Puede armar palabra 
+9. Armar palabra 
+10. Registrar jugada 
+0. Salir 
+------------------------
+Seleccione una opción: 
+
+----- MENÚ TAREA2 -----
+1. Pascrabble 
+2. Probar subprogramas individualmente 
+0. Salir
+------------------------
+Seleccione una opción: 

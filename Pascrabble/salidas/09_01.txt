@@ -1,0 +1,250 @@
+
+----- MENÚ TAREA2 -----
+1. Pascrabble 
+2. Probar subprogramas individualmente 
+0. Salir
+------------------------
+Seleccione una opción: 
+----- MENÚ PROBAR SUBPROGRAMAS -----
+1. Calcular histograma palabra 
+2. Comparar palabras 
+3. Calcular histograma texto 
+4. Es palabra válida 
+5. Remover letra del atril 
+6. Entra en tablero 
+7. Siguiente posición 
+8. Puede armar palabra 
+9. Armar palabra 
+10. Registrar jugada 
+0. Salir 
+------------------------
+Seleccione una opción: 
+Ingrese el nombre del archivo de texto a tomar como diccionario:
+
+Ingrese la cantidad de letras en el atril:
+Ingrese las letras del atril (sin espacios):
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | * |   |   |   |   |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Ingrese la cantidad de letras a colocar en el tablero:
+Ingrese uno por linea las coordenadas y la letra (sin espacios, ejemplo: B3j para ingesar la letra j en la coordenada B3):
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | * |   |   |   |   |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ +---+ +---+ 
+| A | | L | | O | | H | 
+| 1 | | 2 | | 1 | | 8 | 
++---+ +---+ +---+ +---+ 
+Ingrese la palabra:
+Ingrese las coordenadas iniciales de la palabra (fila, columna). Ejemplo fila = A y col = 3, ingresar A3:
+Ingrese la direccion de la palabra, H (horizonal) o V (vertical):
+
+Se intentó armar la palabra: hola
+En la posición: G3 Vertical 
+La palabra no entra en el tablero.
+----- MENÚ PROBAR SUBPROGRAMAS -----
+1. Calcular histograma palabra 
+2. Comparar palabras 
+3. Calcular histograma texto 
+4. Es palabra válida 
+5. Remover letra del atril 
+6. Entra en tablero 
+7. Siguiente posición 
+8. Puede armar palabra 
+9. Armar palabra 
+10. Registrar jugada 
+0. Salir 
+------------------------
+Seleccione una opción: 
+Ingrese el nombre del archivo de texto a tomar como diccionario:
+
+Ingrese la cantidad de letras en el atril:
+Ingrese las letras del atril (sin espacios):
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | * |   |   |   |   |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Ingrese la cantidad de letras a colocar en el tablero:
+Ingrese uno por linea las coordenadas y la letra (sin espacios, ejemplo: B3j para ingesar la letra j en la coordenada B3):
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | * |   |   |   |   |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ +---+ +---+ +---+ +---+ +---+ 
+| A | | B | | S | | H | | L | | O | | R | 
+| 1 | | 4 | | 7 | | 8 | | 2 | | 1 | | 4 | 
++---+ +---+ +---+ +---+ +---+ +---+ +---+ 
+Ingrese la palabra:
+Ingrese las coordenadas iniciales de la palabra (fila, columna). Ejemplo fila = A y col = 3, ingresar A3:
+Ingrese la direccion de la palabra, H (horizonal) o V (vertical):
+
+Se intentó armar la palabra: robots
+En la posición: A1 Horizontal 
+No hay fichas en el atril y tablero para armar la palabra.
+----- MENÚ PROBAR SUBPROGRAMAS -----
+1. Calcular histograma palabra 
+2. Comparar palabras 
+3. Calcular histograma texto 
+4. Es palabra válida 
+5. Remover letra del atril 
+6. Entra en tablero 
+7. Siguiente posición 
+8. Puede armar palabra 
+9. Armar palabra 
+10. Registrar jugada 
+0. Salir 
+------------------------
+Seleccione una opción: 
+Ingrese el nombre del archivo de texto a tomar como diccionario:
+
+Ingrese la cantidad de letras en el atril:
+Ingrese las letras del atril (sin espacios):
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | * |   |   |   |   |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Ingrese la cantidad de letras a colocar en el tablero:
+Ingrese uno por linea las coordenadas y la letra (sin espacios, ejemplo: B3j para ingesar la letra j en la coordenada B3):
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | * |   |   |   |   |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ +---+ +---+ 
+| A | | S | | D | | F | 
+| 1 | | 7 | | 9 | | 8 | 
++---+ +---+ +---+ +---+ 
+Ingrese la palabra:
+Ingrese las coordenadas iniciales de la palabra (fila, columna). Ejemplo fila = A y col = 3, ingresar A3:
+Ingrese la direccion de la palabra, H (horizonal) o V (vertical):
+
+Se intentó armar la palabra: asdf
+En la posición: A1 Horizontal 
+La palabra no existe en el diccionario.
+----- MENÚ PROBAR SUBPROGRAMAS -----
+1. Calcular histograma palabra 
+2. Comparar palabras 
+3. Calcular histograma texto 
+4. Es palabra válida 
+5. Remover letra del atril 
+6. Entra en tablero 
+7. Siguiente posición 
+8. Puede armar palabra 
+9. Armar palabra 
+10. Registrar jugada 
+0. Salir 
+------------------------
+Seleccione una opción: 
+
+----- MENÚ TAREA2 -----
+1. Pascrabble 
+2. Probar subprogramas individualmente 
+0. Salir
+------------------------
+Seleccione una opción: 

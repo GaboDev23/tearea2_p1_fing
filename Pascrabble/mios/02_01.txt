@@ -1,0 +1,96 @@
+
+----- MENÚ TAREA2 -----
+1. Pascrabble 
+2. Probar subprogramas individualmente 
+0. Salir
+------------------------
+Seleccione una opción: 
+----- MENÚ PROBAR SUBPROGRAMAS -----
+1. Calcular histograma palabra 
+2. Comparar palabras 
+3. Calcular histograma texto 
+4. Es palabra válida 
+5. Remover letra del atril 
+6. Entra en tablero 
+7. Siguiente posición 
+8. Puede armar palabra 
+9. Armar palabra 
+10. Registrar jugada 
+0. Salir 
+------------------------
+Seleccione una opción: 
+Ingrese la primera palabra a comparar:
+Ingrese la segunda palabra a comparar:
+Las palabras son iguales.
+----- MENÚ PROBAR SUBPROGRAMAS -----
+1. Calcular histograma palabra 
+2. Comparar palabras 
+3. Calcular histograma texto 
+4. Es palabra válida 
+5. Remover letra del atril 
+6. Entra en tablero 
+7. Siguiente posición 
+8. Puede armar palabra 
+9. Armar palabra 
+10. Registrar jugada 
+0. Salir 
+------------------------
+Seleccione una opción: 
+Ingrese la primera palabra a comparar:
+Ingrese la segunda palabra a comparar:
+Las palabras son diferentes.
+----- MENÚ PROBAR SUBPROGRAMAS -----
+1. Calcular histograma palabra 
+2. Comparar palabras 
+3. Calcular histograma texto 
+4. Es palabra válida 
+5. Remover letra del atril 
+6. Entra en tablero 
+7. Siguiente posición 
+8. Puede armar palabra 
+9. Armar palabra 
+10. Registrar jugada 
+0. Salir 
+------------------------
+Seleccione una opción: 
+Ingrese la primera palabra a comparar:
+Ingrese la segunda palabra a comparar:
+Las palabras son diferentes.
+----- MENÚ PROBAR SUBPROGRAMAS -----
+1. Calcular histograma palabra 
+2. Comparar palabras 
+3. Calcular histograma texto 
+4. Es palabra válida 
+5. Remover letra del atril 
+6. Entra en tablero 
+7. Siguiente posición 
+8. Puede armar palabra 
+9. Armar palabra 
+10. Registrar jugada 
+0. Salir 
+------------------------
+Seleccione una opción: 
+Ingrese la primera palabra a comparar:
+Ingrese la segunda palabra a comparar:
+Las palabras son diferentes.
+----- MENÚ PROBAR SUBPROGRAMAS -----
+1. Calcular histograma palabra 
+2. Comparar palabras 
+3. Calcular histograma texto 
+4. Es palabra válida 
+5. Remover letra del atril 
+6. Entra en tablero 
+7. Siguiente posición 
+8. Puede armar palabra 
+9. Armar palabra 
+10. Registrar jugada 
+0. Salir 
+------------------------
+Seleccione una opción: 
+
+----- MENÚ TAREA2 -----
+1. Pascrabble 
+2. Probar subprogramas individualmente 
+0. Salir
+------------------------
+Seleccione una opción: 

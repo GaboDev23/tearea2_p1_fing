@@ -1,0 +1,817 @@
+
+----- MENÚ TAREA2 -----
+1. Pascrabble 
+2. Probar subprogramas individualmente 
+0. Salir
+------------------------
+Seleccione una opción: 
+Bienvenido al PAScrabble
+
+Ingrese el nombre del archivo de texto a tomar como diccionario:
+
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | * |   |   |   |   |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+El atril está vacío.
+Puntaje total: 0
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | * |   |   |   |   |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ +---+ +---+ +---+ +---+ +---+ 
+| A | | L | | I | | C | | E | | R | | A | 
+| 1 | | 6 | | 3 | | 6 | | 1 | | 4 | | 1 | 
++---+ +---+ +---+ +---+ +---+ +---+ +---+ 
+Puntaje total: 0
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+Ingrese la palabra:
+Ingrese las coordenadas iniciales de la palabra (fila, columna). Ejemplo fila = A y col = 3, ingresar A3:
+Ingrese la direccion de la palabra, H (horizonal) o V (vertical):
+
+Palabra armada "cera" suma 36 puntos.
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | C | E | R | A |   |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ +---+ 
+| A | | L | | I | 
+| 1 | | 6 | | 3 | 
++---+ +---+ +---+ 
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | C | E | R | A |   |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ +---+ +---+ +---+ +---+ +---+ 
+| A | | L | | I | | A | | A | | P | | E | 
+| 1 | | 6 | | 3 | | 1 | | 1 | | 7 | | 1 | 
++---+ +---+ +---+ +---+ +---+ +---+ +---+ 
+Puntaje total: 36
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+Ingrese la palabra:
+Ingrese las coordenadas iniciales de la palabra (fila, columna). Ejemplo fila = A y col = 3, ingresar A3:
+Ingrese la direccion de la palabra, H (horizonal) o V (vertical):
+
+Palabra armada "pera" suma 16 puntos.
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | P |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - | E | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | C | E | R | A |   |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - | A | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ +---+ +---+ 
+| A | | L | | I | | A | 
+| 1 | | 6 | | 3 | | 1 | 
++---+ +---+ +---+ +---+ 
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | P |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - | E | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | C | E | R | A |   |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - | A | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ +---+ +---+ +---+ +---+ +---+ 
+| A | | L | | I | | A | | C | | R | | N | 
+| 1 | | 6 | | 3 | | 1 | | 6 | | 4 | | 1 | 
++---+ +---+ +---+ +---+ +---+ +---+ +---+ 
+Puntaje total: 52
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+Ingrese la palabra:
+Ingrese las coordenadas iniciales de la palabra (fila, columna). Ejemplo fila = A y col = 3, ingresar A3:
+Ingrese la direccion de la palabra, H (horizonal) o V (vertical):
+
+Palabra armada "paliar" suma 16 puntos.
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | P | A | L | I | A | R |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - | E | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | C | E | R | A |   |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - | A | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ 
+| N | | C | 
+| 1 | | 6 | 
++---+ +---+ 
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | P | A | L | I | A | R |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - | E | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | C | E | R | A |   |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - | A | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ +---+ +---+ +---+ +---+ +---+ 
+| N | | C | | E | | R | | I | | T | | I | 
+| 1 | | 6 | | 1 | | 4 | | 3 | | 5 | | 3 | 
++---+ +---+ +---+ +---+ +---+ +---+ +---+ 
+Puntaje total: 68
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+Ingrese la palabra:
+Ingrese las coordenadas iniciales de la palabra (fila, columna). Ejemplo fila = A y col = 3, ingresar A3:
+Ingrese la direccion de la palabra, H (horizonal) o V (vertical):
+
+Palabra armada "taran" suma 5 puntos.
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | T |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | P | A | L | I | A | R |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - | E | R |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | C | E | R | A |   |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - | A | N |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ +---+ +---+ 
+| I | | C | | E | | I | 
+| 3 | | 6 | | 1 | | 3 | 
++---+ +---+ +---+ +---+ 
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | T |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | P | A | L | I | A | R |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - | E | R |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | C | E | R | A |   |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - | A | N |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ +---+ +---+ +---+ +---+ +---+ 
+| I | | C | | E | | I | | G | | A | | M | 
+| 3 | | 6 | | 1 | | 3 | | 8 | | 1 | | 8 | 
++---+ +---+ +---+ +---+ +---+ +---+ +---+ 
+Puntaje total: 73
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+Ingrese la palabra:
+Ingrese las coordenadas iniciales de la palabra (fila, columna). Ejemplo fila = A y col = 3, ingresar A3:
+Ingrese la direccion de la palabra, H (horizonal) o V (vertical):
+
+Palabra armada "mal" suma 27 puntos.
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | M |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | T | A | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | P | A | L | I | A | R |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - | E | R |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | C | E | R | A |   |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - | A | N |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ +---+ +---+ +---+ 
+| I | | C | | E | | I | | G | 
+| 3 | | 6 | | 1 | | 3 | | 8 | 
++---+ +---+ +---+ +---+ +---+ 
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+Historial de jugadas:
+Palabra        Coordenadas        Dirección        Puntaje
+----------------------------------------------------------
+cera                E1            Horizonal          36
+pera                C3            Vertical           16
+paliar              C3            Horizonal          16
+taran               B4            Vertical           5
+mal                 A5            Vertical           27
+
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | M |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | T | A | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | P | A | L | I | A | R |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - | E | R |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | C | E | R | A |   |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - | A | N |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ +---+ +---+ +---+ +---+ +---+ 
+| I | | C | | E | | I | | G | | C | | Z | 
+| 3 | | 6 | | 1 | | 3 | | 8 | | 6 | | 8 | 
++---+ +---+ +---+ +---+ +---+ +---+ +---+ 
+Puntaje total: 100
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+Ingrese la palabra:
+Ingrese las coordenadas iniciales de la palabra (fila, columna). Ejemplo fila = A y col = 3, ingresar A3:
+Ingrese la direccion de la palabra, H (horizonal) o V (vertical):
+
+Palabra armada "creci" suma 14 puntos.
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | M |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | T | A | - |   | C |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | P | A | L | I | A | R |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - | E | R |   | + |   | E |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | C | E | R | A |   |   |   | C | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - | A | N |   | + |   | I |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ +---+ 
+| I | | Z | | G | 
+| 3 | | 8 | | 8 | 
++---+ +---+ +---+ 
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | M |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | T | A | - |   | C |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | P | A | L | I | A | R |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - | E | R |   | + |   | E |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | C | E | R | A |   |   |   | C | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - | A | N |   | + |   | I |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ +---+ +---+ +---+ +---+ +---+ 
+| I | | Z | | G | | A | | E | | F | | A | 
+| 3 | | 8 | | 8 | | 1 | | 1 | | 9 | | 1 | 
++---+ +---+ +---+ +---+ +---+ +---+ +---+ 
+Puntaje total: 114
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+Ingrese la palabra:
+Ingrese las coordenadas iniciales de la palabra (fila, columna). Ejemplo fila = A y col = 3, ingresar A3:
+Ingrese la direccion de la palabra, H (horizonal) o V (vertical):
+
+Palabra armada "fia" suma 10 puntos.
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | M |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | T | A | - |   | C |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | P | A | L | I | A | R |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - | E | R |   | + |   | E |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | C | E | R | A |   |   |   | C | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - | A | N |   | + | F | I | A |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ +---+ +---+ +---+ 
+| I | | Z | | G | | A | | E | 
+| 3 | | 8 | | 8 | | 1 | | 1 | 
++---+ +---+ +---+ +---+ +---+ 
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | M |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | T | A | - |   | C |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | P | A | L | I | A | R |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - | E | R |   | + |   | E |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | C | E | R | A |   |   |   | C | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - | A | N |   | + | F | I | A |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ +---+ +---+ +---+ +---+ +---+ 
+| I | | Z | | G | | A | | E | | I | | I | 
+| 3 | | 8 | | 8 | | 1 | | 1 | | 3 | | 3 | 
++---+ +---+ +---+ +---+ +---+ +---+ +---+ 
+Puntaje total: 124
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+Ingrese la palabra:
+Ingrese las coordenadas iniciales de la palabra (fila, columna). Ejemplo fila = A y col = 3, ingresar A3:
+Ingrese la direccion de la palabra, H (horizonal) o V (vertical):
+
+Palabra armada "ciega" suma 39 puntos.
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | M |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | T | A | - |   | C |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | P | A | L | I | A | R |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - | E | R |   | + |   | E |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | C | E | R | A |   |   |   | C | * |
+   +---+---+---+---+---+---+---+---+---+
+ F | I | - | A | N |   | + | F | I | A |
+   +---+---+---+---+---+---+---+---+---+
+ G | E |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H | G | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | A |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ +---+ 
+| I | | Z | | I | 
+| 3 | | 8 | | 3 | 
++---+ +---+ +---+ 
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | M |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | T | A | - |   | C |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | P | A | L | I | A | R |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - | E | R |   | + |   | E |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | C | E | R | A |   |   |   | C | * |
+   +---+---+---+---+---+---+---+---+---+
+ F | I | - | A | N |   | + | F | I | A |
+   +---+---+---+---+---+---+---+---+---+
+ G | E |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H | G | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | A |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ +---+ +---+ +---+ +---+ +---+ 
+| I | | Z | | I | | E | | L | | U | | Y | 
+| 3 | | 8 | | 3 | | 1 | | 6 | | 6 | | 9 | 
++---+ +---+ +---+ +---+ +---+ +---+ +---+ 
+Puntaje total: 163
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+Ingrese la palabra:
+Ingrese las coordenadas iniciales de la palabra (fila, columna). Ejemplo fila = A y col = 3, ingresar A3:
+Ingrese la direccion de la palabra, H (horizonal) o V (vertical):
+
+Palabra armada "luci" suma 12 puntos.
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | M |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | T | A | - |   | C |   |
+   +---+---+---+---+---+---+---+---+---+
+ C | L |   | P | A | L | I | A | R |   |
+   +---+---+---+---+---+---+---+---+---+
+ D | U | - | E | R |   | + |   | E |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | C | E | R | A |   |   |   | C | * |
+   +---+---+---+---+---+---+---+---+---+
+ F | I | - | A | N |   | + | F | I | A |
+   +---+---+---+---+---+---+---+---+---+
+ G | E |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H | G | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | A |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ +---+ +---+ +---+ 
+| I | | Z | | I | | E | | Y | 
+| 3 | | 8 | | 3 | | 1 | | 9 | 
++---+ +---+ +---+ +---+ +---+ 
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+Historial de jugadas:
+Palabra        Coordenadas        Dirección        Puntaje
+----------------------------------------------------------
+cera                E1            Horizonal          36
+pera                C3            Vertical           16
+paliar              C3            Horizonal          16
+taran               B4            Vertical           5
+mal                 A5            Vertical           27
+creci               B8            Vertical           14
+fia                 F7            Horizonal          10
+ciega               E1            Vertical           39
+luci                C1            Vertical           12
+
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+Saliendo del juego.
+
+----- MENÚ TAREA2 -----
+1. Pascrabble 
+2. Probar subprogramas individualmente 
+0. Salir
+------------------------
+Seleccione una opción: 

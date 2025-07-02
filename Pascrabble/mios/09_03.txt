@@ -1,0 +1,228 @@
+
+----- MENÚ TAREA2 -----
+1. Pascrabble 
+2. Probar subprogramas individualmente 
+0. Salir
+------------------------
+Seleccione una opción: 
+----- MENÚ PROBAR SUBPROGRAMAS -----
+1. Calcular histograma palabra 
+2. Comparar palabras 
+3. Calcular histograma texto 
+4. Es palabra válida 
+5. Remover letra del atril 
+6. Entra en tablero 
+7. Siguiente posición 
+8. Puede armar palabra 
+9. Armar palabra 
+10. Registrar jugada 
+0. Salir 
+------------------------
+Seleccione una opción: 
+Ingrese el nombre del archivo de texto a tomar como diccionario:
+
+Ingrese la cantidad de letras en el atril:
+Ingrese las letras del atril (sin espacios):
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | * |   |   |   |   |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Ingrese la cantidad de letras a colocar en el tablero:
+Ingrese uno por linea las coordenadas y la letra (sin espacios, ejemplo: B3j para ingesar la letra j en la coordenada B3):
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | * |   |   |   |   |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | C | E | R | A | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ +---+ +---+ +---+ +---+ 
+| L | | R | | A | | P | | A | | I | 
+| 2 | | 4 | | 1 | | 6 | | 1 | | 8 | 
++---+ +---+ +---+ +---+ +---+ +---+ 
+Ingrese la palabra:
+Ingrese las coordenadas iniciales de la palabra (fila, columna). Ejemplo fila = A y col = 3, ingresar A3:
+Ingrese la direccion de la palabra, H (horizonal) o V (vertical):
+
+Se intentó armar la palabra: lapicera
+En la posición: I1 Horizontal 
+Palabra armada "lapicera" suma 51 puntos.
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | * |   |   |   |   |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | L | A | P | I | C | E | R | A | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ 
+| A | | R | 
+| 1 | | 4 | 
++---+ +---+ 
+----- MENÚ PROBAR SUBPROGRAMAS -----
+1. Calcular histograma palabra 
+2. Comparar palabras 
+3. Calcular histograma texto 
+4. Es palabra válida 
+5. Remover letra del atril 
+6. Entra en tablero 
+7. Siguiente posición 
+8. Puede armar palabra 
+9. Armar palabra 
+10. Registrar jugada 
+0. Salir 
+------------------------
+Seleccione una opción: 
+Ingrese el nombre del archivo de texto a tomar como diccionario:
+
+Ingrese la cantidad de letras en el atril:
+Ingrese las letras del atril (sin espacios):
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | * |   |   |   |   |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Ingrese la cantidad de letras a colocar en el tablero:
+Ingrese uno por linea las coordenadas y la letra (sin espacios, ejemplo: B3j para ingesar la letra j en la coordenada B3):
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - |   | + |   | + |   | C |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | * |   |   |   |   |   |   | A | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - |   | + |   | + |   | S |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + | A |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ +---+ +---+ 
+| E | | S | | D | | B | 
+| 3 | | 7 | | 9 | | 4 | 
++---+ +---+ +---+ +---+ 
+Ingrese la palabra:
+Ingrese las coordenadas iniciales de la palabra (fila, columna). Ejemplo fila = A y col = 3, ingresar A3:
+Ingrese la direccion de la palabra, H (horizonal) o V (vertical):
+
+Se intentó armar la palabra: escasa
+En la posición: B8 Vertical 
+Palabra armada "escasa" suma 13 puntos.
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | - |   | - |   | E |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | + |   |   |   | + | S |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - |   | + |   | + |   | C |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | * |   |   |   |   |   |   | A | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - |   | + |   | + |   | S |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + | A |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ 
+| B | | D | 
+| 4 | | 9 | 
++---+ +---+ 
+----- MENÚ PROBAR SUBPROGRAMAS -----
+1. Calcular histograma palabra 
+2. Comparar palabras 
+3. Calcular histograma texto 
+4. Es palabra válida 
+5. Remover letra del atril 
+6. Entra en tablero 
+7. Siguiente posición 
+8. Puede armar palabra 
+9. Armar palabra 
+10. Registrar jugada 
+0. Salir 
+------------------------
+Seleccione una opción: 
+
+----- MENÚ TAREA2 -----
+1. Pascrabble 
+2. Probar subprogramas individualmente 
+0. Salir
+------------------------
+Seleccione una opción: 

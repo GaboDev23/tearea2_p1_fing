@@ -1,0 +1,9 @@
+2
+3
+diccionarios/arch1.txt
+3
+diccionarios/arch2.txt
+3
+diccionarios/arch3.txt
+0
+0

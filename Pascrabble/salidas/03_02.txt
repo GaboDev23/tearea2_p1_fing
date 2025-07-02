@@ -1,0 +1,151 @@
+
+----- MENÚ TAREA2 -----
+1. Pascrabble 
+2. Probar subprogramas individualmente 
+0. Salir
+------------------------
+Seleccione una opción: 
+----- MENÚ PROBAR SUBPROGRAMAS -----
+1. Calcular histograma palabra 
+2. Comparar palabras 
+3. Calcular histograma texto 
+4. Es palabra válida 
+5. Remover letra del atril 
+6. Entra en tablero 
+7. Siguiente posición 
+8. Puede armar palabra 
+9. Armar palabra 
+10. Registrar jugada 
+0. Salir 
+------------------------
+Seleccione una opción: 
+Ingrese el nombre del archivo de texto a tomar como diccionario:
+a:||||| (5)
+b:
+c:|||| (4)
+d:| (1)
+e:||||||| (7)
+f:
+g:| (1)
+h:|||| (4)
+i:|||| (4)
+j:
+k:
+l:||||| (5)
+m:|||| (4)
+n:|||| (4)
+o:||||||||||||||||||||| (21)
+p:||| (3)
+q:
+r:|||| (4)
+s:|||| (4)
+t:|||||||| (8)
+u:|||| (4)
+v:|| (2)
+w:
+x:| (1)
+y:|||| (4)
+z:
+----- MENÚ PROBAR SUBPROGRAMAS -----
+1. Calcular histograma palabra 
+2. Comparar palabras 
+3. Calcular histograma texto 
+4. Es palabra válida 
+5. Remover letra del atril 
+6. Entra en tablero 
+7. Siguiente posición 
+8. Puede armar palabra 
+9. Armar palabra 
+10. Registrar jugada 
+0. Salir 
+------------------------
+Seleccione una opción: 
+Ingrese el nombre del archivo de texto a tomar como diccionario:
+a:||| (3)
+b:| (1)
+c:| (1)
+d:| (1)
+e:|||||| (6)
+f:| (1)
+g:| (1)
+h:| (1)
+i:|||||| (6)
+j:| (1)
+k:| (1)
+l:|||| (4)
+m:| (1)
+n:||| (3)
+o:|||||||| (8)
+p:| (1)
+q:| (1)
+r:|| (2)
+s:||| (3)
+t:| (1)
+u:|||| (4)
+v:| (1)
+w:| (1)
+x:| (1)
+y:|| (2)
+z:| (1)
+----- MENÚ PROBAR SUBPROGRAMAS -----
+1. Calcular histograma palabra 
+2. Comparar palabras 
+3. Calcular histograma texto 
+4. Es palabra válida 
+5. Remover letra del atril 
+6. Entra en tablero 
+7. Siguiente posición 
+8. Puede armar palabra 
+9. Armar palabra 
+10. Registrar jugada 
+0. Salir 
+------------------------
+Seleccione una opción: 
+Ingrese el nombre del archivo de texto a tomar como diccionario:
+a:|||||||||||||||||||||||||||||||||||||||||||||||| (48)
+b:||||||||| (9)
+c:||||||||||||| (13)
+d:||||||| (7)
+e:||||||||||||||||||||||||||| (27)
+f:||| (3)
+g:||| (3)
+h:|||| (4)
+i:||||||||||| (11)
+j:|| (2)
+k:
+l:|||||||||||||||||||||||||| (26)
+m:|||||||| (8)
+n:|||||| (6)
+o:||||||||||||||||||||||||||||||||| (33)
+p:|||||||||||||| (14)
+q:| (1)
+r:||||||||||||||||||||||||||| (27)
+s:||||||||||||| (13)
+t:|||||||||| (10)
+u:|||||||||| (10)
+v:||| (3)
+w:
+x:
+y:| (1)
+z:|||| (4)
+----- MENÚ PROBAR SUBPROGRAMAS -----
+1. Calcular histograma palabra 
+2. Comparar palabras 
+3. Calcular histograma texto 
+4. Es palabra válida 
+5. Remover letra del atril 
+6. Entra en tablero 
+7. Siguiente posición 
+8. Puede armar palabra 
+9. Armar palabra 
+10. Registrar jugada 
+0. Salir 
+------------------------
+Seleccione una opción: 
+
+----- MENÚ TAREA2 -----
+1. Pascrabble 
+2. Probar subprogramas individualmente 
+0. Salir
+------------------------
+Seleccione una opción: 

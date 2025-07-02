@@ -1,0 +1,15 @@
+2
+5
+7
+abcdefg
+b
+5
+7
+abcdefg
+g
+5
+1
+a
+a
+0
+0

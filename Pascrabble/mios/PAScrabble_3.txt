@@ -1,0 +1,139 @@
+
+----- MENÚ TAREA2 -----
+1. Pascrabble 
+2. Probar subprogramas individualmente 
+0. Salir
+------------------------
+Seleccione una opción: 
+Bienvenido al PAScrabble
+
+Ingrese el nombre del archivo de texto a tomar como diccionario:
+
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | * |   |   |   |   |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+El atril está vacío.
+Puntaje total: 0
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+
+   +---+---+---+---+---+---+---+---+---+
+ A | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ B |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ C |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ D |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ E | * |   |   |   |   |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+ F |   | - |   | + |   | + |   | - |   |
+   +---+---+---+---+---+---+---+---+---+
+ G |   |   | + |   |   |   | + |   |   |
+   +---+---+---+---+---+---+---+---+---+
+ H |   | + |   | - |   | - |   | + |   |
+   +---+---+---+---+---+---+---+---+---+
+ I | * |   |   |   | * |   |   |   | * |
+   +---+---+---+---+---+---+---+---+---+
+     1   2   3   4   5   6   7   8   9 
+Atril:
++---+ +---+ +---+ +---+ +---+ +---+ +---+ 
+| A | | L | | I | | C | | E | | R | | A | 
+| 1 | | 6 | | 3 | | 6 | | 1 | | 4 | | 1 | 
++---+ +---+ +---+ +---+ +---+ +---+ +---+ 
+Puntaje total: 0
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+Ingrese la palabra:
+Ingrese las coordenadas iniciales de la palabra (fila, columna). Ejemplo fila = A y col = 3, ingresar A3:
+Ingrese la direccion de la palabra, H (horizonal) o V (vertical):
+
+La palabra no existe en el diccionario.
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+Ingrese la palabra:
+Ingrese las coordenadas iniciales de la palabra (fila, columna). Ejemplo fila = A y col = 3, ingresar A3:
+Ingrese la direccion de la palabra, H (horizonal) o V (vertical):
+
+La palabra no existe en el diccionario.
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+Ingrese la palabra:
+Ingrese las coordenadas iniciales de la palabra (fila, columna). Ejemplo fila = A y col = 3, ingresar A3:
+Ingrese la direccion de la palabra, H (horizonal) o V (vertical):
+
+La palabra no existe en el diccionario.
+
+----- MENÚ PASCRABBLE -----
+1. Mostrar tablero
+2. Mostrar historial de jugadas
+3. Mostrar puntajes de letras
+4. Mostrar atril
+5. Jugar una palabra
+6. Reponer fichas
+7. Consultar palabra
+0. Salir
+Seleccione una opción: 
+Saliendo del juego.
+
+----- MENÚ TAREA2 -----
+1. Pascrabble 
+2. Probar subprogramas individualmente 
+0. Salir
+------------------------
+Seleccione una opción: 

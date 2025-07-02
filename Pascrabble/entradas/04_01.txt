@@ -1,0 +1,9 @@
+2
+4
+diccionarios/espaniol.txt
+arbol
+4
+diccionarios/espaniol.txt
+arvol
+0
+0

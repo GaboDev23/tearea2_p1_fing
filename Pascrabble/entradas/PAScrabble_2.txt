@@ -1,0 +1,26 @@
+1
+diccionarios/espaniol.txt
+6
+5
+cera
+E9
+H
+5
+cera
+E7
+H
+5
+cera
+I9
+V
+5
+cera
+G9
+V
+0
+0
+
+
+Error:
+no entra en el tablero
+
